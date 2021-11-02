@@ -20,6 +20,7 @@ namespace ConsoleAppTest
             listatest.Add("6");
             listatest.Add("7");
 
+            // este es un comentario
             string combindedString = string.Join(",", listatest);
             Console.WriteLine(combindedString);
             Console.ReadLine();
