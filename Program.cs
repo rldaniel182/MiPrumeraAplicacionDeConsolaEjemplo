@@ -21,6 +21,8 @@ namespace ConsoleAppTest
             listatest.Add("7");
 
             // este es un comentario
+            
+            //este es otro comentario
             string combindedString = string.Join(",", listatest);
             Console.WriteLine(combindedString);
             Console.ReadLine();
