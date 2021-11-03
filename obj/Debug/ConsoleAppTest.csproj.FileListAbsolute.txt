@@ -5,3 +5,10 @@ C:\Users\Stargroup\source\repos\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.C
 C:\Users\Stargroup\source\repos\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
 C:\Users\Stargroup\source\repos\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
 C:\Users\Stargroup\source\repos\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\Stargroup\source\repos\MiPrumeraAplicacionDeConsolaEjemplo\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\Stargroup\source\repos\MiPrumeraAplicacionDeConsolaEjemplo\bin\Debug\ConsoleAppTest.exe
+C:\Users\Stargroup\source\repos\MiPrumeraAplicacionDeConsolaEjemplo\bin\Debug\ConsoleAppTest.pdb
+C:\Users\Stargroup\source\repos\MiPrumeraAplicacionDeConsolaEjemplo\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\Stargroup\source\repos\MiPrumeraAplicacionDeConsolaEjemplo\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Stargroup\source\repos\MiPrumeraAplicacionDeConsolaEjemplo\obj\Debug\ConsoleAppTest.exe
+C:\Users\Stargroup\source\repos\MiPrumeraAplicacionDeConsolaEjemplo\obj\Debug\ConsoleAppTest.pdb
